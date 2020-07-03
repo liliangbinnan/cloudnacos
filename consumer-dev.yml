@@ -1,5 +1,5 @@
 server:
-  port: 9fas
+  port: 9fasd
 
 spring:
   application:
