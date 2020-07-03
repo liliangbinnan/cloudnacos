@@ -1,5 +1,5 @@
 server:
-  port: 客户端1
+  port: 客户端
 
 spring:
   application:
