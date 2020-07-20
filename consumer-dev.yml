@@ -3,7 +3,9 @@ server:
   safsfsfs
   1546565
   sdfas
-  port: asdfsf
+  
+  
+  port: 666
 
 spring:
   application:
